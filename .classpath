@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/C15602/Downloads/axe-selenium-2.0.jar" sourcepath="java-axe/axe-selenium-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C15602/Downloads/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C15602/Downloads/json-20160810.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C15602/Downloads/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/C15602/Downloads/selenium-server-standalone-3.4.0.jar" sourcepath="java-axe/axe-selenium-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
